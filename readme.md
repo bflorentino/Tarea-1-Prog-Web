@@ -8,5 +8,5 @@ Esta es mi tarea 1 de programación web, mi página web personal.
 
 ## Captura de pantalla 
 
-![Captura de pantalla](captura-tarea.jpg)
+![Captura de pantalla](Captura-Tarea.jpeg)
 
