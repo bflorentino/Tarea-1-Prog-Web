@@ -7,6 +7,6 @@ Esta es mi tarea 1 de programación web, mi página web personal.
 
 ## Capturas de pantalla 
 
-![Primera captura](captura1.jpg)
-![Segunda captura](captura2.jpg)
-![Tercera captura](captura3.jpg)
+![Primera captura](captura1.png)
+![Segunda captura](captura2.jpg.png)
+![Tercera captura](captura3.png)
