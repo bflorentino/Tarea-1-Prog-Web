@@ -6,8 +6,7 @@ Esta es mi tarea 1 de programación web, mi página web personal.
 - - Mi matrícula es : 2020-10674
 
 
-## Capturas de pantalla 
+## Captura de pantalla 
 
-![Primera captura](captura1.png)
-![Segunda captura](captura2.jpg.png)
-![Tercera captura](catpura3.png)
+![Captura de pantalla](captura-tarea.jpg)
+
